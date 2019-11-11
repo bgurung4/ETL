@@ -1,0 +1,1 @@
+gkey = "get google api"
